@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// link refer: https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd
+
 void main() {
   runApp(const MyApp());
 }
