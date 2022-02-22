@@ -45,7 +45,11 @@ dependencies:
   url_launcher:
   timeago:
   google_fonts:
-
+  get:
+  shared_preferences:
+  pull_to_refresh:
+  flutter_localizations:
+    sdk: flutter
 dev_dependencies:
   flutter_test:
     sdk: flutter
